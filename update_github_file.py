@@ -12,7 +12,7 @@ from github import Github, GithubException
 GITHUB_TOKEN = os.getenv('GITHUB_PAT')  # Ambil dari environment variable
 
 # Sumber konten (tanpa footer). Kita akan tambahkan footer sendiri.
-SOURCE_URL   = "hhttps://raw.githubusercontent.com/Xaffin/-/refs/heads/main/%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%A2"
+SOURCE_URL   = "https://raw.githubusercontent.com/Xaffin/-/refs/heads/main/%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%A2"
 
 # REPO tujuan (Format: "username/repository")
 DEST_REPO    = "phxnkhlay/teraM"
