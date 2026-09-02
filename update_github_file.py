@@ -12,7 +12,7 @@ from github import Github, GithubException
 GITHUB_TOKEN = os.getenv('GITHUB_PAT')  # Ambil dari environment variable
 
 # Sumber konten (tanpa footer). Kita akan tambahkan footer sendiri.
-SOURCE_URL   = "https://raw.githubusercontent.com/Xaffin/-/refs/heads/main/%E0%B8%AD%E0%B8%B1%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%99"
+SOURCE_URL   = "hhttps://raw.githubusercontent.com/Xaffin/-/refs/heads/main/%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%A2"
 
 # REPO tujuan (Format: "username/repository")
 DEST_REPO    = "phxnkhlay/teraM"
@@ -227,9 +227,9 @@ def repo_has_marker(repo) -> bool:
 # TARGET FILES (dinamis per bulan/tahun)
 # ==========================
 def generate_target_files(
-    month_name: str = "JANUARI",
+    month_name: str = "teraM",
     year: int = 2027,
-    prefix: str = "MP",
+    prefix: str = "MT",
 ) -> list[str]:
     """
     Menghasilkan OA01<BULAN><TAHUN> ... OA<DD><BULAN><TAHUN> sesuai jumlah hari pada bulan-tahun.
