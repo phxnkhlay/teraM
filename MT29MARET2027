@@ -3835,8 +3835,55 @@ halaman tidak tersedia
 
 
 
+============================================================================================
+🍬SUBJECT TES-🍬SUBJECT TES-🍬SUBJECT TES🍬SUBJECT TES | 15/10/2026
+============================================================================================
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
 
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
+#EXTINF:-1 tvg-id="65" tvg-logo="" group-title="ANAK",Animax (🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=65&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="PENGETAHUAN" group-logo=https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV US HD (🍬SUBJECT TES)
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="PENGETAHUAN",Animal Planet US (🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" group-title="🇮🇩 NASIONAL",RCTI (🍬SUBJECT TES)4
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/rcti.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" group-title="🇮🇩 NASIONAL",MNC(🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" group-title="🇮🇩 NASIONAL",GTV (🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/gtv.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI - Server 4" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" group-title="🇮🇩 NASIONAL",INEWS (🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rplus.inisemar.my.id/inews.m3u8
 
 
 
@@ -3851,6 +3898,12 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
 
 --> HBO
@@ -3931,6 +3984,26 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="HITS MOVIES" tvg-logo="" group-title="FILM",Hits Movies(SPM)
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 ================
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://m.rctiplus.com/tv/rcti
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://embed.rctiplus.com/live/rcti/inewsid
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd!!d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(1👻)
+https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(2👻)
+https://my-cors-proxy.olutuna.workers.dev/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(3👻)
+https://geogersr.itilstrem.workers.dev/https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Nickelodeon)/master.mpd!!9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",NICK(4👻)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd!!676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 
 ================
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="NATIONAL" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI (LC👻)
